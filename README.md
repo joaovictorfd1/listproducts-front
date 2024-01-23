@@ -1,6 +1,6 @@
-# Projeto Prático - Matera
+# Projeto Prático - Cadastro de usuários e produtos
 
-Esse projeto tem como objetivo a demonstração de conhecimento prático sobre as tecnologias que envolvem o React.
+Esse projeto tem como objetivo a demonstração de conhecimento prático sobre as tecnologias que envolvem o React e também Node.js.
 
 ## Bibliotecas
 
@@ -22,20 +22,20 @@ Que tinham como objetivo realizar configurações para melhoria e padronização
 Para instalar o projeto, é necessário realizar o `CLONE` do Repositório
 
 ```
-$ git clone https://github.com/juniopereirab/Matera
+$ git clone https://github.com/joaovictorfd1/listproducts-front.git
 ```
 
 Após o download dos dados, é necessário a instalação das dependências, com os comandos
 
 ```
-$ cd Matera
+$ cd listproducts-front
 $ npm install
 ```
 
 Caso ocorra algum erro na instalação das dependências (é possível devido a versão do Node + Npm). Vocë pode tentar rodando:
 
 ```
-$ cd Matera
+$ cd listproducts-front
 $ npm install --legacy-peer-deps
 ```
 
@@ -47,4 +47,4 @@ $ npm start
 
 ## Informações adicionais
 
-Foi feito o deploy dessa aplicação no Heroku no seguinte endereço: https://matera.herokuapp.com/
+Foi feito o deploy dessa aplicação no Heroku no seguinte endereço:
